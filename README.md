@@ -18,7 +18,7 @@ An easy to use [wallet](https://wallet.trivechain.com) provides our community wi
 
 An incentive should be given to users holding TRVC and providing liquidity. Besides, we will also work on Auto Compounding pools from other protocol to ensure that TRVC could be seen by others. Priority should be given to projects in the games and entertainment protocol.
 
-#### 🗳Decentralised Autonomous Vehicle \(DAO\)
+#### 🗳Decentralised Autonomous Organisation \(DAO\)
 
 DAO will be used to make decisions in terms of the block reward and other important decision
 

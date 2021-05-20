@@ -8,6 +8,9 @@
 **Poocoin App** 💩  
 ****[https://poocoin.app/tokens/0x771cb7dd18072527ca412dddccce8a33b5f88219](https://poocoin.app/tokens/0x771cb7dd18072527ca412dddccce8a33b5f88219)
 
+**Coingecko 🦎**  
+[https://www.coingecko.com/en/coins/trivechain](https://www.coingecko.com/en/coins/trivechain)
+
 ### **Swap**
 
 **ApeSwap 🦧**  
